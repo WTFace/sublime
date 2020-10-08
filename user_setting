@@ -8,5 +8,6 @@
     "show_errors_inline": false,
     "translate_tabs_to_spaces": true,
     "word_wrap": true
+    "trim_trailing_white_space_on_save": true,
 }
 
